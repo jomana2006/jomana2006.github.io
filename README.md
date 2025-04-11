@@ -1,2 +1,1 @@
-theme: jekyll-theme-minimal
-title: Recipe Scale Converter
+# Recipe Scale Converter
