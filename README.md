@@ -1,1 +1,2 @@
-# jomana2006.github.io
+theme: jekyll-theme-minimal
+title: Recipe Scale Converter
